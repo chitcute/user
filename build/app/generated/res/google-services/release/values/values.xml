@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">271471717865-fjc5e09468m73agkskg35s6o8te9qt2p.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">271471717865</string>
+    <string name="google_api_key" translatable="false">AIzaSyAfAOijMa-l_FJMv0XAY5ngTSSixw9yP7k</string>
+    <string name="google_app_id" translatable="false">1:271471717865:android:5a9890947cbcf3d7a7af78</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAfAOijMa-l_FJMv0XAY5ngTSSixw9yP7k</string>
+    <string name="google_storage_bucket" translatable="false">chit-cute.appspot.com</string>
+    <string name="project_id" translatable="false">chit-cute</string>
+</resources>

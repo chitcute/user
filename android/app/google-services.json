@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271471717865",
+    "project_id": "chit-cute",
+    "storage_bucket": "chit-cute.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271471717865:android:5a9890947cbcf3d7a7af78",
+        "android_client_info": {
+          "package_name": "com.kzn.chitcute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271471717865-v19bf74jnnpg9vm83tggcinmtpuplokd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.chitcute",
+            "certificate_hash": "16727ee184f84e424d41e321d3c3defe08e67480"
+          }
+        },
+        {
+          "client_id": "271471717865-fjc5e09468m73agkskg35s6o8te9qt2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAOijMa-l_FJMv0XAY5ngTSSixw9yP7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271471717865-fjc5e09468m73agkskg35s6o8te9qt2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
