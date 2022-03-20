@@ -46,15 +46,18 @@ class OrderHistory extends StatelessWidget {
                                     return ListTile(
                                       title: Text(
                                           "မှာယူခဲ့သောအရေအတွက် = ${purchase.items.length}",
-                                      style: TextStyle(fontSize: 14),),
-                                      subtitle: Text("${purchase.totalPrice} ကျပ်"),
+                                      style: TextStyle(fontSize: 12),),
+                                      subtitle: Text(
+                                          "${purchase.totalPrice} ကျပ် "
+                                              "(ပို့ခ ${purchase.deliveryTownshipInfo[0]}ကျပ် ပေါင်းပြီး)",
+                                        style: TextStyle(fontSize: 12),),
 
 
                                       trailing: Text(
                                         "${purchase.dateTime.day}/"
                                             "${purchase.dateTime.month}/"
                                             "${purchase.dateTime.year}",
-                                      ),
+                                      style: TextStyle(fontSize: 12),),
 
                                     );
                                   },

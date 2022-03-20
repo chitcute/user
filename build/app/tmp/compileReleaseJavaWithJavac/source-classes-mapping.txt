@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/kzn/chitcute/BuildConfig.java
- com.kzn.chitcute.BuildConfig
